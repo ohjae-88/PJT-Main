@@ -12,15 +12,10 @@
     "xlsx": "^0.18.5"
   },
   "devDependencies": {
-<<<<<<< HEAD
-    "@vitejs/plugin-react": "^4.3.4",
-    "vite": "^4.5.0"
+    "@vitejs/plugin-react": "^4.3.4",   // 예시로 2.0.0 버전 선택
+    "vite": "^4.5.0"                    // 최신 Vite 버전 선택
   },
   "engines": {
     "node": "16.x"
-=======
-    "vite": "^4.5.0",
-    "@vitejs/plugin-react": "^2.0.0"
->>>>>>> df15f370754e23e4270f9f601ff5b7e86d6cdd69
   }
 }
